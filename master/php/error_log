@@ -1,0 +1,163 @@
+[30-Dec-2016 10:23:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_quantum' in /home/prisxyz/public_html/include/lib/company.class.php on line 109
+[30-Dec-2016 10:30:39 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 335
+[30-Dec-2016 10:30:39 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 335
+[30-Dec-2016 10:50:59 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=25985 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[30-Dec-2016 10:50:59 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[02-Jan-2017 06:18:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_bassbiz' in /home/prisxyz/public_html/include/config.php on line 41
+[02-Jan-2017 06:18:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/prisxyz/public_html/master/php/company-view.php on line 46
+[02-Jan-2017 06:18:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/prisxyz/public_html/master/php/company-view.php on line 46
+[02-Jan-2017 06:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[02-Jan-2017 06:23:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[02-Jan-2017 06:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[02-Jan-2017 06:24:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[02-Jan-2017 06:24:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[08-Jan-2017 08:26:40 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=15943 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[08-Jan-2017 08:26:40 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[09-Jan-2017 11:22:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 400
+[09-Jan-2017 11:23:05 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 372
+[09-Jan-2017 11:23:05 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 373
+[13-Jan-2017 13:03:47 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=20618 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[13-Jan-2017 13:03:47 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[19-Jan-2017 09:47:13 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=511 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[19-Jan-2017 09:47:13 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[02-Feb-2017 09:30:23 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=2167 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[02-Feb-2017 09:30:23 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[02-Feb-2017 09:34:12 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=2978 in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[02-Feb-2017 09:34:12 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 133
+[04-Feb-2017 05:45:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 447
+[04-Feb-2017 05:45:57 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 447
+[07-Feb-2017 15:13:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/notifyEmail.class.php on line 15
+[09-Feb-2017 14:55:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/notifyEmail.class.php on line 15
+[11-Feb-2017 15:12:01 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=17562 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:12:01 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:21:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'prisxyz_jarota' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[11-Feb-2017 15:21:58 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[11-Feb-2017 15:21:58 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[11-Feb-2017 15:30:54 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=25319 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:30:54 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:52:10 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=30740 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:52:10 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 15:53:21 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[11-Feb-2017 15:53:21 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[11-Feb-2017 16:01:11 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=778 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 16:01:11 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 16:26:55 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=10161 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 16:26:55 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 17:02:50 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=19802 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Feb-2017 17:02:50 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[14-Feb-2017 06:46:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/notifyEmail.class.php on line 15
+[02-Mar-2017 08:19:59 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=6673 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[02-Mar-2017 08:19:59 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[10-Mar-2017 09:22:22 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=17532 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[10-Mar-2017 09:22:22 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 05:23:18 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=4328 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 05:23:18 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 10:06:47 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=25988 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 10:06:47 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 10:54:24 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=7530 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 10:54:24 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 11:11:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'prisxyz_test' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:11:42 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:11:42 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 11:14:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_abctest' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:14:45 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:14:45 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 11:22:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_smrg' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:22:26 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:22:26 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 11:36:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_smrg' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:36:57 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:36:57 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 11:37:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_smrg' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:37:38 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:37:38 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 11:42:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_smrg' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[18-Apr-2017 11:42:05 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[18-Apr-2017 11:42:05 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[18-Apr-2017 12:29:32 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=5032 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[18-Apr-2017 12:29:32 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[03-May-2017 11:55:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:55:38 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:55:38 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:55:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:55:53 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:55:53 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:56:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:56:05 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:56:05 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:56:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:56:09 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:56:09 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:56:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:56:20 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:56:20 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:56:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:56:50 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:56:50 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 11:57:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_evegetail' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-May-2017 11:57:13 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-May-2017 11:57:13 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[03-May-2017 12:09:05 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=3046 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[03-May-2017 12:09:05 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[10-May-2017 05:41:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 516
+[10-May-2017 05:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 521
+[06-Jun-2017 11:53:12 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 637
+[06-Jun-2017 11:53:12 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 638
+[06-Jun-2017 11:53:12 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 638
+[06-Jun-2017 11:53:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/company.class.php on line 628
+[11-Jul-2017 08:11:59 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=24168 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Jul-2017 08:11:59 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[11-Jul-2017 09:57:22 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 312
+[11-Jul-2017 09:57:22 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 313
+[11-Jul-2017 10:19:33 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 312
+[11-Jul-2017 10:19:33 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 313
+[11-Jul-2017 10:20:48 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 312
+[11-Jul-2017 10:20:48 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 313
+[17-Aug-2017 14:26:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:26:57 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:27:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:27:26 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:27:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:27:33 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:30:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:30:03 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:30:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_' in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[17-Aug-2017 14:30:20 UTC] PHP Fatal error:  Call to undefined function mysqli_conn_error() in /home/prisxyz/public_html/include/lib/company.class.php on line 448
+[20-Sep-2017 12:10:43 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=10763 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[20-Sep-2017 12:10:43 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[26-Sep-2017 07:21:21 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=19117 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[26-Sep-2017 07:21:21 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[26-Sep-2017 07:29:15 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=20785 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[26-Sep-2017 07:29:15 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[26-Sep-2017 18:46:50 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 147
+[26-Sep-2017 18:46:50 Asia/Calcutta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 172
+[26-Sep-2017 18:46:50 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 173
+[26-Sep-2017 18:46:50 Asia/Calcutta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 174
+[26-Sep-2017 18:47:23 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 147
+[26-Sep-2017 18:47:23 Asia/Calcutta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 172
+[26-Sep-2017 18:47:23 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 173
+[26-Sep-2017 18:47:23 Asia/Calcutta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 174
+[26-Sep-2017 18:48:13 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 147
+[26-Sep-2017 18:48:13 Asia/Calcutta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 172
+[26-Sep-2017 18:48:13 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 173
+[26-Sep-2017 18:48:13 Asia/Calcutta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 174
+[26-Sep-2017 18:48:33 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 147
+[26-Sep-2017 18:48:33 Asia/Calcutta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 172
+[26-Sep-2017 18:48:33 Asia/Calcutta] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 173
+[26-Sep-2017 18:48:33 Asia/Calcutta] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/ticket.class.php on line 174
+[04-Oct-2017 06:45:30 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=30907 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[04-Oct-2017 06:45:30 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[03-Nov-2017 15:46:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_modelon' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[03-Nov-2017 15:46:06 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[03-Nov-2017 15:46:06 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[06-Nov-2017 06:34:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'prisxyz_pris'@'localhost' to database 'prisxyz_modelon' in /home/prisxyz/public_html/include/lib/company.class.php on line 110
+[06-Nov-2017 06:34:49 UTC] PHP Warning:  Illegal string offset 'result' in /home/prisxyz/public_html/master/php/company.handle.php on line 95
+[06-Nov-2017 06:34:49 UTC] PHP Warning:  Illegal string offset 'data' in /home/prisxyz/public_html/master/php/company.handle.php on line 96
+[06-Nov-2017 07:22:31 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=9941 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[06-Nov-2017 07:22:31 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[08-Nov-2017 17:20:55 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 312
+[08-Nov-2017 17:20:55 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 313
+[17-Jan-2018 11:56:39 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=20984 in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[17-Jan-2018 11:56:39 UTC] PHP Warning:  Company::create(): Error occurred while closing statement in /home/prisxyz/public_html/include/lib/company.class.php on line 134
+[17-Jan-2018 11:58:54 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 312
+[17-Jan-2018 11:58:54 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/company.class.php on line 313

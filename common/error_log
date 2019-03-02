@@ -1,0 +1,1 @@
+[19-Mar-2018 05:25:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/itDeclaration.class.php on line 463

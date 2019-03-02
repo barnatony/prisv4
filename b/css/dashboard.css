@@ -1,0 +1,92 @@
+#updates {
+padding: 0px;
+margin: 20px 0px;
+}
+.birth {
+	padding:0px;
+	margin: 5px 0px;
+}
+.no_data {
+	margin: 0px;
+padding-top: 10px;
+}
+.day_content {
+	margin: 0 auto;
+padding: 5px 0px;
+max-width: 100%;
+overflow-x: visible;
+-webkit-transition: opacity 0.2s ease-out;
+transition: opacity 0.2s ease-out;
+}
+#pro {
+	padding-top:20px;
+	width: 98%;
+	margin:0px auto;
+}
+.update_set {
+	padding: 5px;
+background: #fff;
+border-radius: 3px;
+margin: 20px 0px;
+}
+#thumbs p,.ths p,.box_size {
+	margin:0px !important;
+}
+.th {
+	padding:0px;
+}
+.th2 {
+	text-align: center;
+	opacity:0.5;
+}
+.th1 {
+	text-align: center;
+	opacity:0;
+}
+.th1:hover,.th2:hover {
+	opacity:1 !important;
+}
+.list-timeline-content:hover .th1,.list-timeline-content:hover .th2{
+	opacity:0.5;
+	cursor:pointer;
+}
+.action_set {
+background: transparent;
+border: 1px solid #fff;
+border-radius: 2px;
+padding: 3px 10px 3px 10px;
+}
+.box_size li {
+margin: -4px 0 -3px 10px;
+border-radius:4px;
+padding: 0;
+height: 24px;
+list-style: none;
+float:right;
+opacity:0.6;
+}
+.box_size li:hover {
+opacity:1;
+}
+.center-push {
+	text-align:center;
+	padding: 20px 10px 15px;
+}
+.send_wish {
+	float:right;
+}
+.box_size .active{
+    opacity: 1;
+}
+.team_show {
+    padding: 10px;
+}
+.happen {
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+}
+.badge1 {
+    margin-right: 5px;
+font-size: 18px;
+}

@@ -1,0 +1,1 @@
+[22-Jan-2018 05:15:52 UTC] PHP Warning:  mysqli_stmt_free_result() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/user.class.php on line 45

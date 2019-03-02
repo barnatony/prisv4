@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:/
+Disallow:/cgi-bin/
+Disallow:/images/antonyadaikalamsign.png
+
+User-agent: Googlebot-Image
+Disallow: /images/antonyadaikalamsign.png

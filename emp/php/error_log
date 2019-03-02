@@ -1,0 +1,273 @@
+[29-Nov-2016 05:10:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[29-Nov-2016 05:10:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:08:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:10:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:10:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:34:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[01-Dec-2016 15:34:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 219
+[03-Dec-2016 15:13:03 UTC] PHP Warning:  require_once(/home/prisxyz/public_html/include/lib/compensation.class.php): failed to open stream: No such file or directory in /home/prisxyz/public_html/emp/php/compensation.handle.php on line 3
+[03-Dec-2016 15:13:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/prisxyz/public_html/include/lib/compensation.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/prisxyz/public_html/emp/php/compensation.handle.php on line 3
+[03-Dec-2016 15:13:12 UTC] PHP Warning:  require_once(/home/prisxyz/public_html/include/lib/compensation.class.php): failed to open stream: No such file or directory in /home/prisxyz/public_html/emp/php/compensation.handle.php on line 3
+[03-Dec-2016 15:13:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/prisxyz/public_html/include/lib/compensation.class.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/prisxyz/public_html/emp/php/compensation.handle.php on line 3
+[03-Jan-2017 07:36:22 UTC] PHP Warning:  Illegal string offset 'M' in /home/prisxyz/public_html/emp/php/leaveaccount.handle.php on line 23
+[03-Jan-2017 07:36:22 UTC] PHP Warning:  Illegal string offset 'Y' in /home/prisxyz/public_html/emp/php/leaveaccount.handle.php on line 23
+[03-Jan-2017 07:36:22 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/prisxyz/public_html/emp/php/leaveaccount.handle.php on line 23
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Illegal string offset 'allowString' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 49
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  Illegal string offset 'deduString' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 49
+[04-Jan-2017 15:04:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 93
+[04-Jan-2017 15:36:07 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[04-Jan-2017 15:36:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[04-Jan-2017 15:36:07 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[04-Jan-2017 15:36:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[11-Feb-2017 07:05:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[11-Feb-2017 07:18:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[11-Feb-2017 07:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[13-Feb-2017 13:26:10 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:10 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:10 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 920
+[13-Feb-2017 13:26:15 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:15 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 403
+[13-Feb-2017 13:26:17 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 33
+[13-Feb-2017 13:26:17 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 36
+[13-Feb-2017 13:26:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[22-Feb-2017 06:55:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[22-Feb-2017 07:08:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[02-Mar-2017 17:20:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[07-Mar-2017 10:55:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[07-Mar-2017 11:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[09-Mar-2017 13:01:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[09-Mar-2017 13:01:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[09-Mar-2017 13:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 356
+[03-Apr-2017 02:42:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[03-Apr-2017 02:42:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[03-May-2017 11:30:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:53:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:53:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:54:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:55:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:59:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:59:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[03-May-2017 13:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[04-May-2017 06:38:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[04-May-2017 06:38:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[04-May-2017 06:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[04-May-2017 08:43:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[04-May-2017 14:26:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/payslipDesign.class.php on line 126
+[24-May-2017 15:08:08 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/prisxyz/public_html/include/lib/letter.class.php on line 235
+[24-May-2017 15:08:16 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/prisxyz/public_html/include/lib/letter.class.php on line 235
+[18-Jul-2017 15:25:48 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[18-Jul-2017 15:25:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[18-Jul-2017 15:25:48 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[18-Jul-2017 15:25:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:51:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[20-Jul-2017 00:52:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[20-Jul-2017 00:52:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[20-Jul-2017 00:52:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[20-Jul-2017 00:52:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[20-Jul-2017 00:54:01 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:54:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:54:01 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:54:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:54:01 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 00:55:51 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:55:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:55:51 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:55:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:55:51 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Illegal string offset 'D' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Illegal string offset 'MD' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[20-Jul-2017 00:59:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 109
+[20-Jul-2017 00:59:10 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:59:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 00:59:10 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:59:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 00:59:10 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 00:59:54 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 72
+[20-Jul-2017 00:59:54 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 73
+[20-Jul-2017 00:59:54 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 74
+[20-Jul-2017 00:59:54 UTC] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 75
+[20-Jul-2017 01:00:07 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 01:00:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 01:00:07 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 01:00:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 01:00:07 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 07:45:10 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 07:45:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 07:45:10 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 07:45:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 07:45:10 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 07:45:32 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 07:45:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[20-Jul-2017 07:45:32 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 07:45:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[20-Jul-2017 07:45:32 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[20-Jul-2017 07:45:41 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 72
+[20-Jul-2017 07:45:41 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 73
+[20-Jul-2017 07:45:41 UTC] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 74
+[20-Jul-2017 07:45:41 UTC] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/notification.class.php on line 75
+[05-Aug-2017 05:09:34 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/prisxyz/public_html/include/lib/letter.class.php on line 243
+[14-Aug-2017 12:45:57 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[14-Aug-2017 12:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[14-Aug-2017 12:45:57 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[14-Aug-2017 12:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[14-Aug-2017 12:45:57 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[14-Aug-2017 12:53:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[14-Aug-2017 12:53:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[14-Aug-2017 12:53:48 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[14-Aug-2017 12:53:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[14-Aug-2017 12:53:48 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[14-Aug-2017 12:53:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[14-Aug-2017 12:53:48 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in /home/prisxyz/public_html/include/lib/employee.class.php on line 831
+[31-Aug-2017 11:34:48 UTC] PHP Warning:  move_uploaded_file(/tmp/phpaH6NiU): failed to open stream: No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:34:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaH6NiU' to '../../compDat/CP72146/empDat/TI10005/sslc_proof.jpg' in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:34:48 UTC] PHP Warning:  unlink(/tmp/phpaH6NiU): No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 42
+[31-Aug-2017 11:45:17 UTC] PHP Warning:  move_uploaded_file(/tmp/phpAjj09b): failed to open stream: No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:45:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAjj09b' to '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:45:17 UTC] PHP Warning:  unlink(/tmp/phpAjj09b): No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 42
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  move_uploaded_file(/tmp/php3lK6AH): failed to open stream: No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3lK6AH' to '../../compDat/CP72146/empDat/TI10006/ug_proof.jpg' in /home/prisxyz/public_html/emp/php/employee_update.php on line 38
+[31-Aug-2017 11:48:56 UTC] PHP Warning:  unlink(/tmp/php3lK6AH): No such file or directory in /home/prisxyz/public_html/emp/php/employee_update.php on line 42
+[31-Aug-2017 11:50:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 11:50:36 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 11:50:36 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[31-Aug-2017 12:04:55 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:04:55 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:04:55 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[31-Aug-2017 12:12:55 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:12:55 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:12:55 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[31-Aug-2017 12:15:17 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:15:17 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/TI10006/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[31-Aug-2017 12:15:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[14-Sep-2017 05:03:31 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[15-Sep-2017 09:36:23 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[15-Sep-2017 09:36:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 34
+[15-Sep-2017 09:36:23 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[15-Sep-2017 09:36:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/emp/php/employee.handle.php on line 37
+[15-Sep-2017 15:47:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[15-Sep-2017 15:47:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[11-Oct-2017 13:26:12 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[19-Oct-2017 09:52:33 GMT] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 170
+[19-Oct-2017 09:52:33 GMT] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 171
+[19-Oct-2017 09:52:33 GMT] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 172
+[19-Oct-2017 09:52:33 GMT] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 173
+[19-Oct-2017 09:59:06 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[25-Oct-2017 12:00:40 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[06-Nov-2017 05:13:33 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[06-Nov-2017 05:16:24 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[07-Nov-2017 09:15:15 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[07-Nov-2017 11:25:24 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[09-Nov-2017 05:11:10 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[09-Nov-2017 07:59:01 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[09-Nov-2017 07:59:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[09-Nov-2017 07:59:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[15-Nov-2017 18:16:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[15-Nov-2017 18:16:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[20-Nov-2017 14:01:00 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Nov-2017 14:01:48 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Nov-2017 14:02:34 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Nov-2017 14:02:46 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Nov-2017 14:03:06 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[25-Nov-2017 09:46:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[25-Nov-2017 09:46:56 UTC] PHP Warning:  imagecreatefromjpeg(): '../../compDat/CP72146/empDat/RCI001/sslc_proof.jpg' is not a valid JPEG file in /home/prisxyz/public_html/emp/php/employee_update.php on line 221
+[25-Nov-2017 09:46:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/prisxyz/public_html/emp/php/employee_update.php on line 225
+[27-Nov-2017 08:27:42 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[30-Nov-2017 06:36:26 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[05-Dec-2017 10:37:35 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/prisxyz/public_html/include/lib/letter.class.php on line 243
+[08-Dec-2017 06:02:19 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[08-Dec-2017 06:03:14 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[08-Dec-2017 07:35:03 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[14-Dec-2017 04:27:53 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[08-Jan-2018 04:52:08 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[17-Jan-2018 05:59:38 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[19-Jan-2018 18:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[19-Jan-2018 18:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[08-Feb-2018 13:29:22 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[08-Feb-2018 14:12:05 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[10-Feb-2018 05:48:08 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[10-Feb-2018 05:48:36 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[10-Feb-2018 11:07:24 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[18-Feb-2018 07:24:36 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[18-Feb-2018 09:39:14 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[18-Feb-2018 15:31:38 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[18-Feb-2018 15:31:40 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[18-Feb-2018 15:31:52 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[19-Feb-2018 08:57:38 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[19-Feb-2018 08:57:55 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[19-Feb-2018 08:58:19 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[22-Feb-2018 03:42:52 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[02-Mar-2018 12:00:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[02-Mar-2018 12:00:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[03-Mar-2018 12:28:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[03-Mar-2018 12:28:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[05-Mar-2018 08:56:29 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[05-Mar-2018 09:01:29 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[05-Mar-2018 09:02:01 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[09-Mar-2018 06:30:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[09-Mar-2018 06:30:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[09-Mar-2018 09:31:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[09-Mar-2018 09:31:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[13-Mar-2018 04:17:58 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[13-Mar-2018 04:18:17 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[13-Mar-2018 04:18:40 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[13-Mar-2018 11:29:05 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 11:53:40 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 11:54:42 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 11:54:44 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 11:54:51 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 11:54:53 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 12:16:51 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 12:16:55 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 12:23:28 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 12:42:41 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[13-Mar-2018 13:00:22 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[14-Mar-2018 04:38:50 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/leaveaccount.class.php on line 38
+[14-Mar-2018 06:16:26 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[14-Mar-2018 12:25:22 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[14-Mar-2018 12:26:20 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[15-Mar-2018 08:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[15-Mar-2018 08:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[15-Mar-2018 08:06:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 321
+[15-Mar-2018 08:06:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/dashboard.class.php on line 275
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Illegal string offset 'D' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Illegal string offset 'MD' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[19-Mar-2018 12:57:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 109
+[19-Mar-2018 12:57:50 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Mar-2018 04:46:34 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Illegal string offset 'A' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 36
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Illegal string offset 'D' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 43
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Illegal string offset 'MP' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 53
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Illegal string offset 'MD' in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 59
+[20-Mar-2018 07:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employeeReport.class.php on line 109
+[27-Mar-2018 15:46:26 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/prisxyz/public_html/include/lib/employee.class.php on line 26
