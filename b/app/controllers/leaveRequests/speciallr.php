@@ -4,6 +4,7 @@ function _speciallr(){
 	$data['pagename']="Get Credit of Special Leave Requests";
 	$view = new View();
 	$data['view'] = $view;
+	// echo testing
 	
 	$today_date= date("Y-m-d");
 	$privilage=$_SESSION["authprivilage"];
